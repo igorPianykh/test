@@ -1,0 +1,12 @@
+export const black = '#000000';
+export const white = '#ffffff';
+export const darkBlue = '#303e4b';
+export const primaryBlue = '#3d4e5f';
+export const primaryGreen = '#52A84F';
+export const lightGreen = '#c7e1c6';
+export const primaryGray = '#656565';
+export const lightGray = '#d5d5d5';
+export const danger = '#F34141';
+export const warning = '#FFC107';
+export const gallery = '#eeeeee';
+export const graphite = '#4A4A4A';
