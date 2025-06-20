@@ -24,7 +24,7 @@ const PageLayout: React.FC<Props> = ({
   onPressBack,
 }) => {
   return (
-    <TouchableWithoutFeedback onPress={onPress}>
+    <TouchableWithoutFeedback onPress={onPress} testID="page-layout">
       <SafeAreaView style={styles.safeArea}>
         <View style={styles.headerContainer}>
           {onPressBack && (
